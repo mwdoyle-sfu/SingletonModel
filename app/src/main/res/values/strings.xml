@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Singleton Model</string>
+    <string name="bubbles_left">bubbles left!</string>
+    <string name="start_popping">Start popping</string>
+    <string name="add_more_bubbles">Add more bubbles!</string>
+    <string name="text">Text</string>
+</resources>
